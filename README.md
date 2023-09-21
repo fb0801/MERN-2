@@ -1,10 +1,10 @@
 # MERN-2
-MERN stack project 2
+MERN stack project 2 making a Exercise tracker
 
 
 ## issues:
 
-could not connect to mongoDB
+- could not connect to mongoDB cloud so have done local connection 
 
 
 ## Changes made:
@@ -24,3 +24,7 @@ https://www.youtube.com/watch?v=nQdCUcMMds4
 https://www.mongodb.com/
 
 https://medium.com/@beaucarnes/learn-the-mern-stack-by-building-an-exercise-tracker-mern-tutorial-59c13c1237a1
+
+https://www.toptal.com/developers/gitignore/
+
+https://www.mongodb.com/docs/drivers/go/current/fundamentals/connection/#:~:text=If%20your%20MongoDB%20Server%20is,Manual%20entry%20on%20Connection%20Strings.

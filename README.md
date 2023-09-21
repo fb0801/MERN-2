@@ -28,3 +28,7 @@ https://medium.com/@beaucarnes/learn-the-mern-stack-by-building-an-exercise-trac
 https://www.toptal.com/developers/gitignore/
 
 https://www.mongodb.com/docs/drivers/go/current/fundamentals/connection/#:~:text=If%20your%20MongoDB%20Server%20is,Manual%20entry%20on%20Connection%20Strings.
+
+https://stackoverflow.com/questions/70152365/how-to-connect-mongoose-to-mongodb-locally
+
+https://zellwk.com/blog/local-mongodb/
